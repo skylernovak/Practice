@@ -48,5 +48,5 @@ Linked Lists must be completed Singly, Circularly, and Doubly.
 
 ## LeetCode
 
--Working on problem 200
--Working on "Check Array Formation Through Concatenation" problem
+- Working Top Interview Questions (Easy) collection. Almost done with Arrays. Done with Search & Sort.
+- Need to commit solved problems.
